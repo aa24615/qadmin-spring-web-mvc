@@ -2,7 +2,7 @@
 
 这里使用的 Spring 2.4.4  thymeleaf 模板引擎作为示例		
 
-官网[www.qadmin.net](http://www.qadmin.net)
+官网: [www.qadmin.net](http://www.qadmin.net)
 
 ## 安装
 
